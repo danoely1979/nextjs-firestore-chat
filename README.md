@@ -5,8 +5,9 @@ This is a [Next.js](https://nextjs.org/) sample chat app built on top of Firesto
 
 ## Getting Started
 
-Go to firebase.google.com and create a new Firebase project.
-Once your firebase project is created, copy the firebase config values into `firebaseconfig.js` (best practice would be to store these values in a `.env.local` file for exmaple, so that your firebase config is not exposed.
+- Go to firebase.google.com and create a new Firebase project.
+- Once your firebase project is created, copy the firebase config values.
+- Clone this repo and paste your firebase config values into `firebaseconfig.js` (better practice would be to store these values in a `.env.local` file).
 
 Run the development server:
 
