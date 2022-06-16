@@ -1,8 +1,14 @@
-This is a [Next.js](https://nextjs.org/) sample chat app project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app). Chat message
+https://user-images.githubusercontent.com/67578717/174051732-d4ff470a-3278-4586-9e72-69622dbb8ab6.mp4
+
+
+This is a [Next.js](https://nextjs.org/) sample chat app built on top of Frirestore. The project is bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) along with Tailwind CSS.
 
 ## Getting Started
 
-First, run the development server:
+Go to firebase.google.com and create a new Firebase project.
+Once your firebase project is created, copy the firebase config values into `firebaseconfig.js` (best practice would be to store these values in a `.env.local` file for exmaple, so that your firebase config is not exposed.
+
+Run the development server:
 
 ```bash
 npm run dev
