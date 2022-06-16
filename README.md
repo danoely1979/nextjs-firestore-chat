@@ -1,7 +1,7 @@
 https://user-images.githubusercontent.com/67578717/174051732-d4ff470a-3278-4586-9e72-69622dbb8ab6.mp4
 
 
-This is a [Next.js](https://nextjs.org/) sample chat app built on top of Firestore. The project is bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) along with Tailwind CSS. This is a simplifed version of the Chat app implemented on [thefullstack.network](https://thefullstack.network)
+This is a [Next.js](https://nextjs.org/) sample chat app built on top of Firestore. The project is bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) along with Tailwind CSS. This is a simplifed version of the Chat app implemented on [thefullstack.network](https://thefullstack.network). Credit due to [this tutorial](https://www.youtube.com/watch?v=i8YFPPx_BYw) and [this post](https://thefullstack.network/u/gyanendraknojiya/create-a-real-time-chat-application-using-react-js-and-firebase) from [Gyanendra Knojiya](https://thefullstack.network/u/gyanendraknojiya) 
 
 ## Getting Started
 
